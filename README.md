@@ -19,6 +19,6 @@ This will be place where I gather and track all information on my homelab build.
 | [Cat6A RJ45 Keystone Jacks](https://deskpi.com/products/deskpi-rackmate-accessories-12-port-cat6a-rj45-keystone-jacks) | 0U | $7.99 | 1 | 1 | replacement jacks for cable organization |
 | [Short patch cables](https://deskpi.com/products/6-pack-3-8mm-0-2m-barrier-free-short-shielded-cat6a-ethernet-cable-colorful) | 0U | $4.99+ | 1 | 2 | qty and color to pick |
 | [50 screws](https://deskpi.com/products/deskpi-rackmate-accessories-10-32-5-16-screws?variant=44693394751644) | 0U | $4.69 | 0 | 1 |  |
-|  |  |  |  |  |  |
+| [MINISFORUM BD790i X3D](https://store.minisforum.com/products/minisforum-bd790i-x3d) | 0U | $599 | 3 | 1 |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
